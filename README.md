@@ -33,7 +33,7 @@
     <a href="https://vk.com/ramanov_vyacheslav" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <a href="[https://dzen.ru/ai_" target="_blank">
+    <a href="https://dzen.ru/ai_" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
     </a>
   </div>
